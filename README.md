@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambre !</h1>
 <h3 align="center">A javascript web developer.</h3>
 
+
+<h3 align="left">Quick Start:</h3>
+
 - 🔭 I’m currently working on **Audiophile e-shop**
 
 - 🌱 I’m currently learning **redux**
@@ -8,6 +11,16 @@
 - 💬 Ask me about **html, css / scss, javascript, react**
 
 - 📫 How to reach me **ambre.gorias@gmail.com**
+
+
+<h3 align="left">Some projects I'm particularly proud about:</h3>
+
+- Fullstack corporate social network :  <a href="https://capable-semifreddo-224f20.netlify.app/auth" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/Yunie08/P7-Groupomania" target="_blank" rel="noreferrer">Github repo</a> 
+
+- A small Github user search app : <a href="https://yunie08.github.io/frontend-mentor-github-user-search-app/" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/Yunie08/frontend-mentor-github-user-search-app" target="_blank" rel="noreferrer">Github repo</a>
+
+- More responsive frontend mockup integration projects :<a href="https://www.frontendmentor.io/profile/Yunie08" target="_blank" rel="noreferrer">Frontend Mentor Projects</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
