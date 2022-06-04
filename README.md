@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambre !</h1>
+<h1 align="center">Hi, I'm Ambre !</h1>
 <h3 align="center">A javascript web developer.</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **html, css / scss, javascript, react**
 
-- 📫 How to reach me **ambre.gorias@gmail.com**
+- 📫 How to reach me **ambre.gorias@gmail.com**  
 
 
 <h3 align="left">Some projects I'm particularly proud about:</h3>
@@ -19,13 +19,13 @@
 
 - A small Github user search app : <a href="https://yunie08.github.io/frontend-mentor-github-user-search-app/" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/Yunie08/frontend-mentor-github-user-search-app" target="_blank" rel="noreferrer">Github repo</a>
 
-- More responsive frontend mockup integration projects :<a href="https://www.frontendmentor.io/profile/Yunie08" target="_blank" rel="noreferrer">Frontend Mentor Projects</a>
+- More responsive frontend mockup integration projects : <a href="https://www.frontendmentor.io/profile/Yunie08" target="_blank" rel="noreferrer">Frontend Mentor Projects</a>  
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ambre-gorias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambre-gorias" height="30" width="40" /></a>
-</p>
+</p>  
 
 <h3 align="left">Languages and Tools:</h3>
 
