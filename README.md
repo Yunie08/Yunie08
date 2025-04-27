@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Ambre !</h1>
-<h3 align="center">A javascript web developer.</h3>
+<h3 align="center">A React frontend developer.</h3>
 
 
 <h3 align="left">Quick Start:</h3>
 
-- 🔭 I’m currently working on **Audiophile e-shop**
+- 🔭 I’m currently working at **Brigad**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **html, css / scss, javascript, react**
+- 💬 Ask me about **React, Typescript, Apollo GraphQL, testing **
 
 - 📫 How to reach me **ambre.gorias@gmail.com**  
 
 
-<h3 align="left">Some projects I'm particularly proud about:</h3>
+<h3 align="left">Some projects I'm particularly proud of:</h3>
 
 - Fullstack corporate social network :  <a href="https://capable-semifreddo-224f20.netlify.app/auth" target="_blank" rel="noreferrer">Live Demo</a> | <a href="https://github.com/Yunie08/P7-Groupomania" target="_blank" rel="noreferrer">Github repo</a> 
 
